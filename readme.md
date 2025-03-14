@@ -1,1 +1,6 @@
 # Learning GIT through a GUI (Graphical User Interface)
+
+- Commit 1
+- Commit 2...
+- Commit number 3...
+- Adding this commit for github..
